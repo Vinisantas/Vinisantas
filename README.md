@@ -1,31 +1,7 @@
 <div align="center">
   
-  <!-- Logo VPS em SVG puro (funciona 100% no GitHub) -->
-  <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="4" y="12" width="22" height="56" rx="4" fill="#10B981" opacity="0.9"/>
-    <rect x="28" y="20" width="22" height="48" rx="4" fill="#10B981" opacity="0.6"/>
-    <rect x="52" y="16" width="22" height="52" rx="4" fill="#10B981" opacity="0.3"/>
-    <circle cx="15" cy="24" r="3" fill="#0F172A"/>
-    <circle cx="39" cy="32" r="3" fill="#0F172A"/>
-    <circle cx="63" cy="28" r="3" fill="#0F172A"/>
-  </svg>
+  <img src="https://raw.githubusercontent.com/Vinisantas/Vinisantas/main/assets/logo.png" alt="VPS" width="280" />
 
-  <h1 style="font-family: monospace; font-size: 36px; color: #0F172A; margin: 10px 0 0 0;">
-    Vinícius Pereira Santana
-  </h1>
-  
-  <p style="font-family: monospace; font-size: 16px; color: #10B981; letter-spacing: 4px; margin: 0;">
-    VPS • SOFTWARE DEVELOPER
-  </p>
-<div align="center">
-  <img src="assets/logo.png" alt="VPS" width="400" />
-  
-  <p style="color: #64748B; max-width: 500px; margin: 16px auto;">
-    Backend Developer focado em Python, FastAPI e arquitetura de sistemas.
-    Construindo marketplaces e soluções escaláveis.
-  </p>
-
-  <!-- Badges com as cores VPS -->
   <p>
     <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=10B981" />
     <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=10B981" />
@@ -34,15 +10,28 @@
     <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=10B981" />
   </p>
 
+  <p style="color: #94A3B8; max-width: 550px; margin: 20px auto; font-size: 15px;">
+    Desenvolvedor Backend focado em Python, FastAPI e arquitetura de sistemas.<br/>
+    Construindo marketplaces e soluções escaláveis para o comércio local.
+  </p>
+
 </div>
 
 ---
 
-<!-- Layout em duas colunas usando tabela -->
+## 👨‍💻 Sobre Mim
+
+- 🎓 Formado em **[seu curso]** pela **[sua faculdade]**
+- 💼 Atualmente desenvolvendo um marketplace multi-loja com **FastAPI + Vue.js + RabbitMQ**
+- 🎯 Objetivo: Viver de software próprio, resolvendo problemas reais de comerciantes e pequenos negócios
+- 📚 Aprofundando estudos em: Arquitetura de Microsserviços, Mensageria e Vue.js Avançado
+
+---
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>🚀 Projetos</h2>
+      <h2>🚀 Projetos em Destaque</h2>
       <ul>
         <li>
           <a href="https://github.com/Vinisantas/raizes_do_nordeste">
@@ -55,20 +44,32 @@
         <li>
           <strong>VPS Marketplace</strong> <sub>(em breve)</sub>
           <br/>
-          <sub>Marketplace multi-loja • RabbitMQ • Vue.js</sub>
+          <sub>Marketplace multi-loja • RabbitMQ • WebSockets • Vue.js</sub>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h2>📊 Estatísticas</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vinisantas&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Vinisantas&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true&count_private=true" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisantas&layout=compact&langs_count=8&theme=dark&title_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true&hide=jupyter%20notebook" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Seção expansível (detalhes técnicos) -->
+<div align="center">
+  <h2>🏆 Troféus</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinisantas&theme=darkhub&no-frame=true&row=1&column=6&title_color=10B981" />
+  
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/Vinisantas/Vinisantas/output/snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 <details>
   <summary><strong>🛠️ Stack Completa</strong></summary>
   <br/>
@@ -101,7 +102,7 @@
 <div align="center">
   <h2>📫 Contato</h2>
   <p>
-    <a href="www.linkedin.com/in/vinícius-santana-aa1b342a7">
+    <a href="https://www.linkedin.com/in/vinícius-santana-aa1b342a7">
       <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981" />
     </a>
     <a href="mailto:viniciuspereirasantana@gmail.com">
@@ -115,6 +116,3 @@
   <br/>
   <sub>Feito por VPS</sub>
 </div>
-
-
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail)](viniciuspereirasantana@gmail.com)
