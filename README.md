@@ -17,7 +17,9 @@
   <p style="font-family: monospace; font-size: 16px; color: #10B981; letter-spacing: 4px; margin: 0;">
     VPS • SOFTWARE DEVELOPER
   </p>
-
+<div align="center">
+  <img src="assets/logo.png" alt="VPS" width="200" />
+  
   <p style="color: #64748B; max-width: 500px; margin: 16px auto;">
     Backend Developer focado em Python, FastAPI e arquitetura de sistemas.
     Construindo marketplaces e soluções escaláveis.
@@ -111,7 +113,7 @@
   </p>
   
   <br/>
-  <sub>Feito com 💻 por VPS</sub>
+  <sub>Feito por VPS</sub>
 </div>
 
 
