@@ -26,8 +26,8 @@ Construindo sistemas escaláveis e marketplaces digitais.
 
 ### 📦 Projetos em Destaque
 
-- [Raízes do Nordeste](https://github.com/Vinisantas/raizes_do_nordeste) - Marketplace Backend com FastAPI
-- [Nome do Projeto 2](link) - Breve descrição
+- [Raízes do Nordeste](https://github.com/Vinisantas/raizes_do_nordeste) - Projeto final de Faculdade Backend com FastAPI
+
 
 ---
 
