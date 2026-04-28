@@ -18,7 +18,7 @@
     VPS • SOFTWARE DEVELOPER
   </p>
 <div align="center">
-  <img src="assets/logo.png" alt="VPS" width="200" />
+  <img src="assets/logo.png" alt="VPS" width="400" />
   
   <p style="color: #64748B; max-width: 500px; margin: 16px auto;">
     Backend Developer focado em Python, FastAPI e arquitetura de sistemas.
