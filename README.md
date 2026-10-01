@@ -1,133 +1,65 @@
 <div align="center">
-  
-  <!-- Logo VPS Profissional -->
-  <img src="https://raw.githubusercontent.com/Vinisantas/Vinisantas/main/assets/logo.png" alt="VPS" width="280" />
 
-  <h1 style="font-family: monospace; font-size: 36px; color: #F8FAFC; margin: 10px 0 0 0;">
-    Vinícius Pereira Santana
-  </h1>
-  
-  <p style="font-family: monospace; font-size: 16px; color: #10B981; letter-spacing: 4px; margin: 0;">
-    VPS • SOFTWARE DEVELOPER
-  </p>
+  <img src="https://raw.githubusercontent.com/Vinisantas/Vinisantas/main/assets/logo.png" alt="VPS" width="210" />
 
-  <p style="color: #94A3B8; max-width: 550px; margin: 20px auto; font-size: 15px;">
-    Desenvolvedor Backend focado em Python, FastAPI e arquitetura de sistemas.<br/>
-    Construindo marketplaces e soluções escaláveis para o comércio local.
-  </p>
+  <h1>Vinícius Pereira Santana</h1>
 
-  <!-- Badges com as cores VPS -->
+  <p><strong>Python • Desenvolvimento Backend • Dados e BI</strong></p>
+
   <p>
-    <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Vue.js-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=10B981" />
-    <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=10B981" />
+    Trabalho com TI e gosto de criar soluções para problemas que aparecem na rotina.<br/>
+    Tenho desenvolvido projetos com Python, bancos de dados e ferramentas de análise.
   </p>
 
-</div>
-
----
-
-## 👨‍💻 Sobre Mim
-
-- 🎓 Formado em **ADS** pela **UNNINTER**
-- 💼 Atualmente desenvolvendo um marketplace multi-loja com **FastAPI + Vue.js + RabbitMQ**
-- 🎯 Objetivo: Viver de software próprio, resolvendo problemas reais de comerciantes e pequenos negócios
-- 📚 Aprofundando estudos em: Arquitetura de Microsserviços, Mensageria e Vue.js Avançado
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinisantas&show_icons=true&theme=dark&title_color=10B981&icon_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisantas&layout=compact&langs_count=8&theme=dark&title_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true&hide=jupyter%20notebook" height="170" />
-</div>
-
----
-
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  
-  <a href="https://github.com/Vinisantas/raizes_do_nordeste">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinisantas&repo=raizes_do_nordeste&theme=dark&title_color=10B981&text_color=F8FAFC&bg_color=0F172A&hide_border=true" />
-  </a>
-  
-  <br/>
-  <sub>Marketplace Backend com FastAPI, JWT e PostgreSQL</sub>
-  
-  <br/><br/>
-  
-  <strong>VPS Marketplace</strong> <sub>(em breve)</sub>
-  <br/>
-  <sub>Marketplace multi-loja • RabbitMQ • WebSockets • Vue.js</sub>
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinisantas&theme=darkhub&no-frame=true&row=1&column=6&title_color=10B981" />
-</div>
-
----
-
-## 🐍 Cobrinha de Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vinisantas/Vinisantas/output/snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<!-- Seção expansível -->
-<details>
-  <summary><strong>🛠️ Stack Completa</strong></summary>
-  <br/>
-  <table>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Python • FastAPI • Node.js</td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>Vue.js • HTML/CSS • JavaScript</td>
-    </tr>
-    <tr>
-      <td><strong>Banco de Dados</strong></td>
-      <td>PostgreSQL • Redis</td>
-    </tr>
-    <tr>
-      <td><strong>Mensageria</strong></td>
-      <td>RabbitMQ</td>
-    </tr>
-    <tr>
-      <td><strong>DevOps</strong></td>
-      <td>Docker • GitHub Actions</td>
-    </tr>
-  </table>
-</details>
-
----
-
-<div align="center">
-  <h2>📫 Contato</h2>
   <p>
-    <a href="https://www.linkedin.com/in/vinícius-santana-aa1b342a7">
-      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=10B981" />
-    </a>
-    <a href="mailto:viniciuspereirasantana@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=10B981" />
-    </a>
-    <a href="https://github.com/Vinisantas">
-      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
-    </a>
+    <a href="https://www.linkedin.com/in/vinicius-santana-vs">LinkedIn</a> •
+    <a href="mailto:viniciuspereirasantana@gmail.com">E-mail</a>
   </p>
-  
-  <br/>
-  <sub>Feito por VPS</sub>
+
+</div>
+
+---
+
+## Sobre mim
+
+Atuo na área de TI do Grupo Lins Ferrão (Pompéia/Gang), trabalhando com suporte, sistemas e processos relacionados a equipamentos e estoque.
+
+No dia a dia, percebi que várias tarefas poderiam ficar mais organizadas com tecnologia. Isso me motivou a desenvolver projetos próprios, principalmente com Python, SQL e aplicações para facilitar consultas e acompanhar informações.
+
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNINTER e estou cursando pós-graduação em Ciência de Dados e Inteligência Artificial.
+
+Atualmente, estudo e pratico tanto desenvolvimento backend quanto análise de dados. Quero continuar evoluindo nessas áreas construindo projetos que tenham uma utilidade clara.
+
+## Projetos
+
+### [Controle de Ativos TI](https://github.com/Vinisantas/Controle)
+
+Sistema para organizar informações sobre equipamentos de TI, consultas patrimoniais e movimentações de saída e retorno. O projeto nasceu de necessidades que encontro nos processos operacionais de TI.
+
+**Tecnologias:** Python, Streamlit, SQL, SQLite, PostgreSQL e Docker.
+
+### [Raízes do Nordeste — API](https://github.com/Vinisantas/raizes_do_nordeste)
+
+API REST desenvolvida como projeto prático de backend para uma rede de lanchonetes. Inclui funcionalidades de usuários, unidades, produtos, estoque e pedidos, além de autenticação.
+
+**Tecnologias:** Python, FastAPI, SQLAlchemy, PostgreSQL, Docker e JWT.
+
+## Tecnologias com que trabalho ou estudo
+
+- **Linguagem e backend:** Python, FastAPI, APIs REST
+- **Dados:** SQL, PostgreSQL, SQLite, Pandas, ETL e modelagem de dados
+- **BI e visualização:** Power BI, dashboards e indicadores
+- **Ferramentas:** Git, GitHub, Docker e Linux
+- **Estudos atuais:** Ciência de Dados, Análise Preditiva e Inteligência Artificial
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/vinicius-santana-vs
+- E-mail: viniciuspereirasantana@gmail.com
+- GitHub: https://github.com/Vinisantas
+
+---
+
+<div align="center">
+  <sub>Projetos feitos na prática, aprendizados em andamento e melhorias a cada versão.</sub>
 </div>
